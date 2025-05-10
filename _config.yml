@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 我的网站
-subtitle: '欢迎来到我的博客！'
-description: '这是我的个人网站'
-keywords:
-author: Damon
+title: 裕华果蔬(三口蜜果蔬)农业产品
+subtitle: 百年传承·有机种植
+description: 裕华果蔬(三口蜜果蔬)专注有机梨种植，拥有ISO9001认证，产品出口20+国家 | 产地直供 | 可追溯体系
+keywords: 三口蜜果蔬,有机梨,黄河雪梨,农产品出口,ISO认证
+author: 裕华果蔬
 language: zh-CN
 timezone: ''
 
@@ -98,8 +98,41 @@ ignore:
 ## Themes: https://hexo.io/themes/
 theme: fluid
 
+search:
+  path: search.xml  # 文件生成路径
+  field: all        # 搜索范围：all/post/page/categories/tags
+  content: true     # 包含正文内容
+  format: html      # 内容格式
+  limit: 10000      # 最大索引条目
+
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
+
+sitemap:
+  path: sitemap.xml
+  rel: false
+  tags: true
+  categories: true
+
+robotstxt:
+  useragent: "*"
+  sitemap: /sitemap.xml
+  allow:
+    - /
+  disallow: 
+    - /admin/
+    - /draft/
+
+minify:
+  html:
+    enable: true
+    exclude: 
+  css:
+    enable: true
+    exclude: 
+  js:
+    enable: true
+    exclude: 
 
 deploy:
   type: git

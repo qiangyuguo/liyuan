@@ -335,7 +335,7 @@ lazyload:
 
 # 图标库，包含了大量社交类图标，主题依赖的不包含在内，因此可自行修改，详见 https://hexo.fluid-dev.com/docs/icon/
 # Icon library, which includes many social icons, does not include those theme dependent, so your can modify link by yourself. See: https://hexo.fluid-dev.com/docs/en/icon/
-iconfont: //at.alicdn.com/t/c/font_1736178_k526ubmyhba.css
+iconfont: //at.alicdn.com/t/c/font_1736178_k526ubmyhba.css?v=123
 
 
 #---------------------------
@@ -368,11 +368,11 @@ navbar:
   # Navigation bar menu. `key` is used to associate languages/*.yml. If there is no association, the value of `key` itself will be displayed; if `icon` is a css class, it can be omitted; adding `name` can force the display of the specified name
   menu:
     - { key: 'home', link: '/', icon: "iconfont icon-home-fill" }
-    - { key: '介绍', link: '/about/', icon: "fas fa-tree" }
-    - { key: '资质', link: '/qualifications/', icon: "iconfont icon-certificate-fill" }
-    - { key: '得奖', link: '/awards/' , icon: "iconfont icon-trophy-fill"}
-    - { key: '产品', link: '/products/' , icon: "iconfont icon-apple-fill"}
-    - { key: '合作', link: '/cooperation/', icon: "iconfont icon-handshake-fill" }
+    - { key: "介绍", link: "/about/", icon: "iconfont icon-archive-fill" }
+    - { key: "资质", link: "/qualifications/", icon: "iconfont icon-category-fill" }
+    - { key: "得奖", link: "/awards/", icon: "iconfont icon-tags-fill" }
+    - { key: "产品", link: "/products/", icon: "iconfont icon-apple-fill" }
+    - { key: "合作", link: "/cooperation/", icon: "iconfont icon-user-fill" }
 
 # 搜索功能，基于 hexo-generator-search 插件，若已安装其他搜索插件请关闭此功能，以避免生成多余的索引文件
 # Search feature, based on hexo-generator-search. If you have installed other search plugins, please disable this feature to avoid generating redundant index files
@@ -384,6 +384,7 @@ search:
   # Path for search index file, it can be a relative path or an absolute path
   # path: /local-search.xml
   path: search.xml    # 必须与上一步一致
+  placeholder: "输入关键词搜索"
 
   # 文件生成在本地的位置，必须是相对路径
   # The location where the index file is generated locally, it must be a relative location
@@ -448,9 +449,9 @@ footer:
   # 页脚第一行文字的 HTML，建议保留 Fluid 的链接，用于向更多人推广本主题
   # HTML of the first line of the footer, it is recommended to keep the Fluid link to promote this theme to more people
   content: '
-    <a href="https://www.shamat.shop" target="_blank" rel="nofollow noopener"><span>梨园</span></a>
+    <span>裕华果蔬</span>
     <i class="iconfont icon-love"></i>
-    <a href="https://github.com/fluid-dev/hexo-theme-fluid" target="_blank" rel="nofollow noopener"><span>Pear Garden</span></a>
+    <span>三口蜜果蔬</span>
   '
 
   # 展示网站的 PV、UV 统计数
@@ -503,7 +504,7 @@ index:
 
     # 为空则按 hexo config.subtitle 显示
     # If empty, text based on `subtitle` in hexo config
-    text: "正在进入梨园的天地"
+    text: "正在进入裕华果蔬的天地"
 
     # 通过 API 接口作为首页副标题的内容，必须返回的是 JSON 格式，如果请求失败则按 text 字段显示，该功能必须先开启 typing 打字机功能
     # Subtitle of the homepage through the API, must be returned a JSON. If the request fails, it will be displayed in `text` value. This feature must first enable the typing animation
@@ -1067,6 +1068,16 @@ links:
     # The specified plugin needs to set the necessary parameters at the same time
     # Options: utterances | disqus | gitalk | valine | waline | changyan | livere | remark42 | twikoo | cusdis | giscus | discuss
     type: disqus
+
+
+seo:
+  enable: true
+  noindex: false  # 禁止搜索引擎收录设为false
+  canonical: true  # 启用标准链接
+  twitter_card: summary_large_image
+  og_image: /images/seo/og-default.jpg
+  baidu_site_verification: your_baidu_verify_code  # 百度站长平台验证码
+  google_site_verification: your_google_verify_code # Google Search Console验证码
 
 
 #---------------------------
