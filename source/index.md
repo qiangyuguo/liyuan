@@ -33,4 +33,4 @@ nav_icon: fa-tree
 
 <br>
 
-![home](images/home.png)
+![home](https://cdn.jsdelivr.net/gh/qiangyuguo/CDN/img/default.min.png)

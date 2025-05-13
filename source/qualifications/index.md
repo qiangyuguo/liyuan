@@ -9,8 +9,8 @@ nav_icon: fa-tree
 
 <br>
 
-![1746602745791](qualifications/images/index/1746602745791.png)
+![1746602745791](https://cdn.jsdelivr.net/gh/qiangyuguo/CDN/qualifications/images/index/1746602745791.min.png)
 
 <br>
 
-![1746602758355](qualifications/images/index/1746602758355.png)
+![1746602758355](https://cdn.jsdelivr.net/gh/qiangyuguo/CDN/qualifications/images/index/1746602758355.min.png)
