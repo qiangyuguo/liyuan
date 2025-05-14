@@ -1,52 +1,140 @@
 ---
-title: 裕华果蔬产品
+title: 科学种植体系
 layout: page
-nav_icon: fa-tree
+nav_icon: fa-apple
 ---
-## 灌溉设施
 
-梨园基地采用矿物质含量较高的地下水作为灌溉水源，现有20米深井26口，地下地上两套灌溉设备。土家肥腐熟发酵场占地20000平方米，年发酵施用土家肥(牛粪）40000立方，作为梨园土壤改良剂及梨园基础肥，增加土壤的有机质，提高果品品质，使每一枚梨子达到与众不同的原生态风味。
+<div class="text-center section-header">
+    <h1>匠心种植 <i class="fa fa-leaf" style="color:#4CAF50"></i></h1>
+    <p class="lead">从土壤到果实的品质革命</p>
+</div>
 
-![image16](https://cdn.jsdelivr.net/gh/qiangyuguo/CDN/products/images/index/image16.min.png)
+---
 
-![image12](https://cdn.jsdelivr.net/gh/qiangyuguo/CDN/products/images/index/image12.min.png)
+## 💧 智能灌溉系统
 
-![image13](https://cdn.jsdelivr.net/gh/qiangyuguo/CDN/products/images/index/image13.min.png)
+<div class="row">
+    <div class="col-md-4">
+        <div class="feature-card">
+            <div class="card-icon blue">
+                <i class="fa fa-tint fa-3x"></i>
+            </div>
+            <h3>双源灌溉体系</h3>
+            <ul>
+                <li>26口20米深岩层水井</li>
+                <li>地下滴灌+地上喷灌双系统</li>
+                <li>矿物质含量检测：钙≥45mg/L 镁≥12mg/L</li>
+            </ul>
+        </div>
+    </div>
+    <div class="col-md-8">
+        <div class="row">
+            <div class="col-md-6">
+                <img src="https://cdn.jsdelivr.net/gh/qiangyuguo/CDN/products/images/index/image16.min.png" 
+                     class="img-responsive" 
+                     alt="深井灌溉系统">
+                <p class="img-caption">深层地下水灌溉设施</p>
+            </div>
+            <div class="col-md-6">
+                <img src="https://cdn.jsdelivr.net/gh/qiangyuguo/CDN/products/images/index/image12.min.png" 
+                     class="img-responsive" 
+                     alt="智能控制中心">
+                <p class="img-caption">物联网智能控制系统</p>
+            </div>
+        </div>
+    </div>
+</div>
 
-![image14](https://cdn.jsdelivr.net/gh/qiangyuguo/CDN/products/images/index/image14.min.png)
+---
 
-![image15](https://cdn.jsdelivr.net/gh/qiangyuguo/CDN/products/images/index/image15.min.png)
+## 🌱 有机施肥工程
 
-![image17](https://cdn.jsdelivr.net/gh/qiangyuguo/CDN/products/images/index/image17.min.png)
+<div class="row">
+    <div class="col-md-8">
+        <div class="row gallery">
+            <div class="col-md-6">
+                <img src="https://cdn.jsdelivr.net/gh/qiangyuguo/CDN/products/images/index/image14.min.png" 
+                     class="img-responsive">
+            </div>
+            <div class="col-md-6">
+                <img src="https://cdn.jsdelivr.net/gh/qiangyuguo/CDN/products/images/index/image15.min.png" 
+                     class="img-responsive">
+            </div>
+        </div>
+    </div>
+    <div class="col-md-4">
+        <div class="feature-card">
+            <div class="card-icon green">
+                <i class="fa fa-recycle fa-3x"></i>
+            </div>
+            <h3>生态施肥方案</h3>
+            <ul>
+                <li>20,000㎡发酵场</li>
+                <li>年处理牛粪40,000m³</li>
+                <li>土壤有机质提升35%</li>
+                <li>益生菌添加技术</li>
+            </ul>
+        </div>
+    </div>
+</div>
 
-![image18](https://cdn.jsdelivr.net/gh/qiangyuguo/CDN/products/images/index/image18.min.png)
+---
 
-![image19](https://cdn.jsdelivr.net/gh/qiangyuguo/CDN/products/images/index/image19.min.png)
+## 📸 全景种植图集
 
-![image20](https://cdn.jsdelivr.net/gh/qiangyuguo/CDN/products/images/index/image20.min.png)
+<div class="row gallery-grid">
+    <div class="col-xs-6 col-md-3">
+        <img src="https://cdn.jsdelivr.net/gh/qiangyuguo/CDN/products/images/index/image17.min.png" 
+             class="img-responsive">
+    </div>
+    <div class="col-xs-6 col-md-3">
+        <img src="https://cdn.jsdelivr.net/gh/qiangyuguo/CDN/products/images/index/image18.min.png" 
+             class="img-responsive">
+    </div>
+    <div class="col-xs-6 col-md-3">
+        <img src="https://cdn.jsdelivr.net/gh/qiangyuguo/CDN/products/images/index/image19.min.png" 
+             class="img-responsive">
+    </div>
+    <div class="col-xs-6 col-md-3">
+        <img src="https://cdn.jsdelivr.net/gh/qiangyuguo/CDN/products/images/index/image20.min.png" 
+             class="img-responsive">
+    </div>
+    <!-- 继续添加其他图片 -->
+</div>
 
-![image21](https://cdn.jsdelivr.net/gh/qiangyuguo/CDN/products/images/index/image21.min.png)
-
-![image23](https://cdn.jsdelivr.net/gh/qiangyuguo/CDN/products/images/index/image23.min.png)
-
-![image24](https://cdn.jsdelivr.net/gh/qiangyuguo/CDN/products/images/index/image24.min.png)
-
-![image25](https://cdn.jsdelivr.net/gh/qiangyuguo/CDN/products/images/index/image25.min.png)
-
-![image26](https://cdn.jsdelivr.net/gh/qiangyuguo/CDN/products/images/index/image26.min.png)
-
-![image27](https://cdn.jsdelivr.net/gh/qiangyuguo/CDN/products/images/index/image27.min.png)
-
-![image28](https://cdn.jsdelivr.net/gh/qiangyuguo/CDN/products/images/index/image28.min.png)
-
-![image29](https://cdn.jsdelivr.net/gh/qiangyuguo/CDN/products/images/index/image29.min.png)
-
-![image30](https://cdn.jsdelivr.net/gh/qiangyuguo/CDN/products/images/index/image30.min.png)
-
-![image31](https://cdn.jsdelivr.net/gh/qiangyuguo/CDN/products/images/index/image31.min.png)
-
-![image41](https://cdn.jsdelivr.net/gh/qiangyuguo/CDN/products/images/index/image41.min.png)
-
-![image38](https://cdn.jsdelivr.net/gh/qiangyuguo/CDN/products/images/index/image38.min.png)
-
-![image44](https://cdn.jsdelivr.net/gh/qiangyuguo/CDN/products/images/index/image44.min.png)
+<style>
+.section-header {padding:40px 0 30px}
+.feature-card {
+    background: #f8f9fa;
+    padding: 20px;
+    border-radius: 8px;
+    height: 100%;
+}
+.card-icon {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    margin: 0 auto 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.blue {background:#2196F3; color:white}
+.green {background:#4CAF50; color:white}
+.img-caption {
+    font-size: 14px;
+    color: #666;
+    margin-top: 8px;
+}
+.gallery-grid img {
+    margin-bottom: 15px;
+    border-radius: 4px;
+    transition: transform 0.3s;
+}
+.gallery-grid img:hover {
+    transform: scale(1.05);
+}
+@media (max-width: 768px) {
+    .feature-card {margin-top:20px}
+}
+</style>

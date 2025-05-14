@@ -3,70 +3,122 @@ title: 裕华果蔬介绍
 layout: page
 nav_icon: fa-tree
 ---
-![about](https://cdn.jsdelivr.net/gh/qiangyuguo/CDN/about/images/index/about.min.png)
 
-<br>
+![企业全景](https://cdn.jsdelivr.net/gh/qiangyuguo/CDN/about/images/index/about.min.png)
 
-## 🌍 **地理优势**
+<div class="text-center" style="margin: 40px 0">
+<i class="fa fa-leaf fa-2x" style="color:#4CAF50"></i>
+</div>
 
-裕华果蔬(三口蜜果蔬)成立于2013年，现有梨园基地1600余亩，年产量4500吨，位于莱阳市沐浴店镇安乐庄村，北邻新204国道，东邻五龙河畔上游，方圆百里无一家污染性企业。地势平坦，交通便利，地理位置优越。
+## 🌟 核心优势
 
-![image3](https://cdn.jsdelivr.net/gh/qiangyuguo/CDN/about/images/index/image3.min.png)
+<div class="row">
+    <div class="col-md-6">
+        <h3><i class="fa fa-globe"></i> 天然生态基地</h3>
+        <ul>
+            <li>1600亩标准化梨园，年产4500吨</li>
+            <li>莱阳五龙河上游生态保护区</li>
+            <li>30米深岩层水灌溉系统</li>
+            <li>方圆百里零工业污染</li>
+        </ul>
+    </div>
+    <div class="col-md-6">
+        <img src="https://cdn.jsdelivr.net/gh/qiangyuguo/CDN/about/images/index/image3.min.png" class="img-responsive">
+    </div>
+</div>
 
-<br>
+---
 
-## 📜 **资质优势**
+## 📜 国际认证资质
 
-裕华秋月梨，在种植过程中，严禁使用剧毒药品和灭草家剂等。
-2024年6月份经青岛海关考察，基地秋月梨符合出口欧美标准，顺利注册登记出口美国备案基地，备案号:4201GY0106。
-![image4](https://cdn.jsdelivr.net/gh/qiangyuguo/CDN/about/images/index/image4.min.png)
+<div class="row">
+    <div class="col-md-6">
+        <img src="https://cdn.jsdelivr.net/gh/qiangyuguo/CDN/about/images/index/image4.min.png" class="img-responsive">
+    </div>
+    <div class="col-md-6">
+        <h3><i class="fa fa-certificate"></i> 品质认证</h3>
+        <ul>
+            <li>2024年获美国FDA出口认证（备案号:4201GY0106）</li>
+            <li>全流程有机种植管理</li>
+            <li>禁用剧毒农药及除草剂</li>
+            <li>通过SGS国际检测标准</li>
+        </ul>
+    </div>
+</div>
 
-<br>
+---
 
-## 🌱 **种植优势**
+## 🌱 智慧种植体系
 
-梨园基地采用矿物质含量较高的地下水作为灌溉水源，现有20米深井26口地下地上两套灌溉设备。
-![image5](https://cdn.jsdelivr.net/gh/qiangyuguo/CDN/about/images/index/image5.min.png)
+<div class="row">
+    <div class="col-md-4">
+        <h4><i class="fa fa-tint"></i> 精准灌溉</h4>
+        <p>26口深井双系统灌溉，矿物质含量检测实时监控</p>
+        <img src="https://cdn.jsdelivr.net/gh/qiangyuguo/CDN/about/images/index/image5.min.png">
+    </div>
+    <div class="col-md-4">
+        <h4><i class="fa fa-shield"></i> 立体防护</h4>
+        <p>智能防雹网+防霜冻风机+驱鸟系统三位一体防护</p>
+        <img src="https://cdn.jsdelivr.net/gh/qiangyuguo/CDN/about/images/index/image6.min.png">
+    </div>
+    <div class="col-md-4">
+        <h4><i class="fa fa-recycle"></i> 有机施肥</h4>
+        <p>年施4万方发酵牛粪肥，土壤有机质含量提升30%</p>
+        <img src="https://cdn.jsdelivr.net/gh/qiangyuguo/CDN/about/images/index/image7.min.png">
+    </div>
+</div>
 
-<br>
+---
 
-## 🛡️ **防护措施**
+## 🏭 现代化供应链
 
-为了应对极端天气，梨园基地全面铺设防冰雹防鸟网，并且加装了防霜冻风机，有效降低了冰雹霜冻等恶劣天气对果品质量的影响和危害。
-![image6](https://cdn.jsdelivr.net/gh/qiangyuguo/CDN/about/images/index/image6.min.png)
+<div class="row">
+    <div class="col-md-6">
+        <h3><i class="fa fa-industry"></i> 仓储物流</h3>
+        <ul>
+            <li>2万吨智能保鲜冷库</li>
+            <li>4000㎡标准化分拣车间</li>
+            <li>日处理产能100吨</li>
+            <li>全国冷链直达配送</li>
+        </ul>
+    </div>
+    <div class="col-md-6">
+        <img src="https://cdn.jsdelivr.net/gh/qiangyuguo/CDN/about/images/index/image8.min.png" class="img-responsive">
+    </div>
+</div>
 
-<br>
+---
 
-## 🌾 **农肥种植**
+## 🌐 全球合作伙伴
 
-为了应对土家肥腐熟发酵场占地20000平方米，年发酵施用土家肥(牛粪)40000立方，作为梨园土壤改良剂及梨园基础肥，增加土壤的有机质，提高果品品质，使每一枚梨子达到与众不同的原生态风味。
-![image7](https://cdn.jsdelivr.net/gh/qiangyuguo/CDN/about/images/index/image7.min.png)
+<div class="text-center">
+    <img src="https://cdn.jsdelivr.net/gh/qiangyuguo/CDN/about/images/index/image9.min.png" style="max-width:60%">
+    <p class="h4">2024年成为Costco中国区战略供应商</p>
+</div>
 
-<br>
+---
 
-## 🏭 **厂房优势**
+## 🍐 产品标准
 
-裕华果蔬现有2万吨配套保鲜库，4000平方包装车间，300人包装团队，日供成品100吨 ，发往全国各大水果市场及门店商超。
-![image8](https://cdn.jsdelivr.net/gh/qiangyuguo/CDN/about/images/index/image8.min.png)
+<div class="row">
+    <div class="col-md-6">
+        <img src="https://cdn.jsdelivr.net/gh/qiangyuguo/CDN/about/images/index/image10.min.png" class="img-responsive">
+    </div>
+    <div class="col-md-6">
+        <h3><i class="fa fa-check-circle"></i> 严选品质</h3>
+        <ul>
+            <li>糖度≥13.5% 硬度≥6.5kg/cm²</li>
+            <li>单果重400-500g标准筛选</li>
+            <li>全程可溯源系统管理</li>
+            <li>支持定制化包装方案</li>
+        </ul>
+    </div>
+</div>
 
-<br>
+---
 
-## 🍐 **样品展示**
-
-每一颗梨子都是经过库房严选，高端品质入盒，包装，规格自定。
-![image10](https://cdn.jsdelivr.net/gh/qiangyuguo/CDN/about/images/index/image10.min.png)
-
-<br>
-
-## 🌐 **出口合作达成**
-
-2024年10月与美国开市客超市签署合作，基地秋月梨顺利入驻美国商超。
-![image9](https://cdn.jsdelivr.net/gh/qiangyuguo/CDN/about/images/index/image9.min.png)
-
-
-<br>
-
-## 🇨🇳 **中国追溯**
-
-得天独厚的地理位置!优质的天然水源!纯净的生态环境!现代化的种植模式!精锐的包装团队!做细，做精，用心做好每一枚源产地梨品!
-![image11](https://cdn.jsdelivr.net/gh/qiangyuguo/CDN/about/images/index/image11.min.png)
+<div class="alert alert-success text-center">
+    <h3><i class="fa fa-pagelines"></i> 从土地到餐桌的承诺</h3>
+    <p>坚持生态种植 · 完善质量追溯 · 守护自然本味</p>
+    <img src="https://cdn.jsdelivr.net/gh/qiangyuguo/CDN/about/images/index/image11.min.png" style="max-width:200px">
+</div>
