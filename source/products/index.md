@@ -99,7 +99,37 @@ nav_icon: fa-apple
         <img src="https://cdn.jsdelivr.net/gh/qiangyuguo/CDN/products/images/index/image20.min.png" 
              class="img-responsive">
     </div>
-    <!-- 继续添加其他图片 -->
+    <!-- 新增产品图片 -->
+    <div class="col-xs-6 col-md-3">
+        <img src="https://cdn.jsdelivr.net/gh/qiangyuguo/CDN/products/images/index/product3.jpg" 
+             class="img-responsive"
+             alt="冷链仓储系统">
+    </div>
+    <div class="col-xs-6 col-md-3">
+        <img src="https://cdn.jsdelivr.net/gh/qiangyuguo/CDN/products/images/index/product4.jpg" 
+             class="img-responsive"
+             alt="果园航拍全景">
+    </div>
+    <div class="col-xs-6 col-md-3">
+        <img src="https://cdn.jsdelivr.net/gh/qiangyuguo/CDN/products/images/index/product5.jpg" 
+             class="img-responsive"
+             alt="品质检测流程">
+    </div>
+    <div class="col-xs-6 col-md-3">
+        <img src="https://cdn.jsdelivr.net/gh/qiangyuguo/CDN/products/images/index/product6.jpg" 
+             class="img-responsive"
+             alt="包装成品展示">
+    </div>
+    <div class="col-xs-6 col-md-3">
+        <img src="https://cdn.jsdelivr.net/gh/qiangyuguo/CDN/products/images/index/product1.jpg" 
+             class="img-responsive"
+             alt="秋月梨成熟特写">
+    </div>
+    <div class="col-xs-6 col-md-3">
+        <img src="https://cdn.jsdelivr.net/gh/qiangyuguo/CDN/products/images/index/product2.jpg" 
+             class="img-responsive"
+             alt="自动化分拣线">
+    </div>
 </div>
 
 <style>
@@ -137,4 +167,50 @@ nav_icon: fa-apple
 @media (max-width: 768px) {
     .feature-card {margin-top:20px}
 }
+
+/* 新增样式优化 */
+.gallery-grid {
+    margin: 0 -5px;
+}
+.gallery-grid [class^="col-"] {
+    padding: 5px;
+}
+.img-responsive {
+    border-radius: 6px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+.img-caption {
+    font-size: 13px;
+    color: #666;
+    text-align: center;
+    margin: 8px 0 15px;
+}
+@media (max-width: 768px) {
+    .img-caption { font-size: 12px }
+}
 </style>
+<!-- 在</style>后添加 -->
+<script>
+document.querySelectorAll('.gallery-grid img').forEach(img => {
+    img.onclick = () => {
+        const overlay = document.createElement('div');
+        overlay.style = `
+            position: fixed; 
+            top:0; left:0; 
+            width:100vw; height:100vh; 
+            background: rgba(0,0,0,0.8); 
+            z-index: 9999;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            cursor: zoom-out;
+        `;
+        const clone = img.cloneNode();
+        clone.style.maxWidth = '90vw';
+        clone.style.maxHeight = '90vh';
+        overlay.appendChild(clone);
+        overlay.onclick = () => document.body.removeChild(overlay);
+        document.body.appendChild(overlay);
+    }
+});
+</script>
