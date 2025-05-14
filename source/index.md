@@ -1,5 +1,5 @@
 ---
-title: 裕华果蔬首页
+title: 源起·自然馈赠
 layout: page
 nav_icon: fa-home
 ---
@@ -25,7 +25,7 @@ nav_icon: fa-home
     <div class="col-md-3 col-sm-6">
         <div class="stat-item">
             <i class="fa fa-truck"></i>
-            <h3>4500吨/年</h3>
+            <h3 style="width: 135px;">4500吨/年</h3>
             <p>稳定产能</p>
         </div>
     </div>

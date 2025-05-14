@@ -1,9 +1,8 @@
 ---
-title: 裕华果蔬资质
+title: 国际认证·全球通行证
 layout: page
 nav_icon: fa-certificate
 ---
-
 <div class="text-center" style="padding:40px 0 20px">
     <h1 style="margin-bottom:15px">
         <i class="fa fa-award fa-2x" style="color:#2196F3"></i><br>

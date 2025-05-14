@@ -16,6 +16,7 @@ nav_icon: fa-trophy
 <div class="timeline">
 
 <!--- 2020年里程碑 --->
+
 <div class="timeline-item">
     <div class="timeline-badge" style="background:#4CAF50">2020</div>
     <div class="panel panel-success">
@@ -24,7 +25,7 @@ nav_icon: fa-trophy
         </div>
         <div class="panel-body">
             <div class="row">
-                <div class="col-md-8">
+                <div class="col-md-6">
                     <h4>国家防伪工程技术研究中心</h4>
                     <ul>
                         <li>认证单位：产品追溯委员会</li>
@@ -32,7 +33,7 @@ nav_icon: fa-trophy
                         <li>溯源精度：达到单品级追踪</li>
                     </ul>
                 </div>
-                <div class="col-md-4">
+                <div class="col-md-6">
                     <img src="https://cdn.jsdelivr.net/gh/qiangyuguo/CDN/cooperation/images/index/image38.min.png" 
                          class="img-responsive cert-img">
                 </div>
@@ -42,6 +43,7 @@ nav_icon: fa-trophy
 </div>
 
 <!--- 2023年里程碑 --->
+
 <div class="timeline-item">
     <div class="timeline-badge" style="background:#2196F3">2023</div>
     <div class="panel panel-info">
@@ -50,7 +52,7 @@ nav_icon: fa-trophy
         </div>
         <div class="panel-body">
             <div class="row">
-                <div class="col-md-8">
+                <div class="col-md-6">
                     <h4>中国科技会示范基地</h4>
                     <ul>
                         <li>认证类别：功能农产品示范园区</li>
@@ -58,7 +60,7 @@ nav_icon: fa-trophy
                         <li>创新成果：3项种植技术专利</li>
                     </ul>
                 </div>
-                <div class="col-md-4">
+                <div class="col-md-6">
                     <img src="https://cdn.jsdelivr.net/gh/qiangyuguo/CDN/cooperation/images/index/image34.min.png" 
                          class="img-responsive cert-img">
                 </div>
@@ -68,6 +70,7 @@ nav_icon: fa-trophy
 </div>
 
 <!--- 2024年里程碑 --->
+
 <div class="timeline-item">
     <div class="timeline-badge" style="background:#9C27B0">2024</div>
     <div class="panel panel-purple">

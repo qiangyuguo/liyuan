@@ -1,9 +1,8 @@
 ---
-title: 裕华果蔬介绍
+title: 全产业链生态
 layout: page
 nav_icon: fa-tree
 ---
-
 ![企业全景](https://cdn.jsdelivr.net/gh/qiangyuguo/CDN/about/images/index/about.min.png)
 
 <div class="text-center" style="margin: 40px 0">
