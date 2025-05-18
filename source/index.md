@@ -128,19 +128,19 @@ nav_icon: fa-home
         <h2 class="section-title">梨园动态</h2>
         <div class="article-list">
             <!-- 单个文章项 -->
-            <a href="/products/秋月梨种植技术解析.html" class="article-item" target="_blank" 
+            <a href="/posts/technology" class="article-item" target="_blank" 
    rel="noopener noreferrer">
                 <div class="article-row">
                     <span class="article-title">秋月梨种植技术解析</span>
-                    <time class="article-date">2023-08-15</time>
+                    <time class="article-date">2024-08-15</time>
                 </div>
                 <div class="article-line"></div>
             </a>
-            <a href="/posts/秋月梨营养价值报告.html" class="article-item" target="_blank" 
+            <a href="/posts/merit" class="article-item" target="_blank" 
    rel="noopener noreferrer">
                 <div class="article-row">
-                    <span class="article-title">秋月梨营养价值报告</span>
-                    <time class="article-date">2023-08-14</time>
+                    <span class="article-title">秋月梨全方位指南</span>
+                    <time class="article-date">2024-08-14</time>
                 </div>
                 <div class="article-line"></div>
             </a>
